@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.fb2cb160.css",
-    "main.js": "/static/js/main.f5d80505.js",
-    "index.html": "/index.html",
-    "main.fb2cb160.css.map": "/static/css/main.fb2cb160.css.map",
-    "main.f5d80505.js.map": "/static/js/main.f5d80505.js.map"
+    "main.css": "/React-Tours/static/css/main.fb2cb160.css",
+    "main.js": "/React-Tours/static/js/main.f5d80505.js",
+    "index.html": "/React-Tours/index.html",
+    "main.fb2cb160.css.map": "/React-Tours/static/css/main.fb2cb160.css.map",
+    "main.f5d80505.js.map": "/React-Tours/static/js/main.f5d80505.js.map"
   },
   "entrypoints": [
     "static/css/main.fb2cb160.css",
